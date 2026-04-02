@@ -1,4 +1,4 @@
-# AI Video Promo Project
+# AI Promotional Video Project
 
 This repository showcases an AI-generated promotional video project created for digital branding and visual presentation.
 
@@ -12,10 +12,11 @@ This project demonstrates the use of AI tools combined with video editing workfl
 - Final export and presentation
 
 ## Tools Used
-- AI Video Tools
+- AI video generation tools
 - Adobe Premiere Pro
 - DaVinci Resolve
 - Adobe Photoshop
+- Visual branding and editing workflow
 
 ## Example Use Case
 Promotional and branding video content for websites, social media, and business presentations.
