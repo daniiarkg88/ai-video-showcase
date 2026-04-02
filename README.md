@@ -1,2 +1,28 @@
-# ai-video-showcase
-AI-generated promotional video project showcasing digital branding, video editing, and visual storytelling.
+# AI Video Promo Project
+
+This repository showcases an AI-generated promotional video project created for digital branding and visual presentation.
+
+## Project Overview
+This project demonstrates the use of AI tools combined with video editing workflows to create a short promotional video suitable for online platforms, business presentation, and digital marketing.
+
+## My Role
+- AI video generation
+- Video editing and post-production
+- Visual storytelling and branding
+- Final export and presentation
+
+## Tools Used
+- AI Video Tools
+- Adobe Premiere Pro
+- DaVinci Resolve
+- Adobe Photoshop
+
+## Example Use Case
+Promotional and branding video content for websites, social media, and business presentations.
+
+## Demo Video
+[Watch the video here](https://youtu.be/dpUhdLiicoI?si=_Rya02MyATiQXSZd)
+
+## Author
+Daniiar Kutanov  
+Web Developer | WordPress & Joomla Specialist
