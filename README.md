@@ -23,7 +23,8 @@ Promotional and branding video content for websites, social media, and business 
 
 ## Demo Video
 
-- [German AI Promo Video] (https://youtu.be/ca8I3h2geIc)
+
+- [German AI Promo Video](https://youtu.be/ca8I3h2geIc)
 
 [Watch the video here](https://youtu.be/dpUhdLiicoI?si=_Rya02MyATiQXSZd)
 
