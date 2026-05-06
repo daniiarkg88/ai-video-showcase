@@ -25,8 +25,8 @@ Promotional and branding video content for websites, social media, and business 
 
 
 - [German AI Promo Video](https://youtu.be/ca8I3h2geIc)
-
-[Watch the video here](https://youtu.be/dpUhdLiicoI?si=_Rya02MyATiQXSZd)
+- [English AI Promo Video](https://youtu.be/BdE-B_yGlAA?si=pQ9-wk5DJhWP4s3E)
+- [Russian AI Promo Video](https://youtu.be/dpUhdLiicoI?si=_Rya02MyATiQXSZd)
 
 ## Author
 Daniiar Kutanov  
